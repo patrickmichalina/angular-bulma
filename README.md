@@ -1,8 +1,9 @@
-# angular-bulma
+# Angular Bulma
 
 Angular (v5.0.0+) implementations of Bulma UI library components
 
 # Project Goals
+- Angular Universal (server rendered) support
 - 100% functional, reactive, and immutable code
 - 100% test coverage
 
